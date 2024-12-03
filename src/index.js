@@ -20,7 +20,7 @@ console.log(ans);
 let f = 15%4;
 console.log(f)
 let game =true; //Boolean
-console.log(typeof{game});
+console.log(typeofgame);
 var number = prompt("How many shoes will you buy");
 console.log(number + "shoes" );
 let color = prompt("what is your favourite color?");
